@@ -1,76 +1,72 @@
 # 👋 Michel Enzo Etoundi  
-**IT & Telecommunications Engineer | Data Science & AI (Autodidacte)**
+**IT & Telecommunications Engineer | Data Science & AI (Self-Taught)**
 
-📍 Cameroun | 🌍 Ouvert aux collaborations internationales  
-🎯 Orientation : Data Science, Intelligence Artificielle, projets à impact réel
-
----
-
-## 🧭 Niveau actuel dans mon parcours Data Science
-
-🔹 **Phase actuelle : Phase 1 – Fondations mathématiques
-🔹 **Statut : En cours d’apprentissage actif**
-
-> Mon objectif est de construire des bases solides pour comprendre les modèles,
-> et non simplement appliquer des outils de manière mécanique.
+📍 Cameroon | 🌍 Open to international collaborations  
+🎯 Focus: Data Science, Artificial Intelligence, real-world impact projects
 
 ---
 
-## 📘 Ce sur quoi je travaille en ce moment
+## 🧭 Current Stage in My Data Science Journey
 
-### 📚 Apprentissage en cours
-- **Mathématiques pour la Data Science**
-  - Algèbre linéaire (vecteurs, matrices, transformations)
-  - Calcul différentiel et intégral
-- **Programmation & outils**
-  -GNU Octave
+🔹 **Current phase: Phase 1 – Mathematical Foundations**  
+🔹 **Status: Actively learning**
 
----
-
-## 📖 Ressources principales actuellement étudiées
-- Introduction à l'algèbre linéaire et à ses applications (ERPI, 2023)
-- Calcul Différentiel (Chenelière, 2023)
-- Calcul Intégral (Chenelière, 2016)
+> My goal is to build strong foundations to truly understand models,  
+> rather than mechanically applying tools without depth.
 
 ---
 
-## 🧠 Concepts clés que je développe actuellement
-- Représentation des données sous forme vectorielle
-- Compréhension des relations entre variables
+## 📘 What I Am Currently Working On
+
+### 📚 Ongoing Learning
+- **Mathematics for Data Science**
+  - Linear algebra (vectors, matrices, transformations)
+  - Differential and integral calculus
+- **Programming & tools**
+  - GNU Octave
 
 ---
 
-## 🛠️ Projets en cours (niveau fondations)
-- Mini-projets d’apprentissage (GNU Octave)
-- Notebooks documentés expliquant le raisonnement pas à pas
-
-> Les projets sont volontairement simples mais conceptuellement solides.
-
----
-
-## 🗂️ Projets à venir
-- Analyses statistiques complètes
-- Modèles supervisés et non supervisés
-- Introduction au machine learning
-- Projets orientés **réalités africaines**
-- Vulgarisation et partage pédagogique
+## 📖 Main Resources Currently Studied
+- *Introduction à l’algèbre linéaire et à ses applications* (ERPI, 2023)
+- *Calcul différentiel* (Chenelière, 2023)
+- *Calcul intégral* (Chenelière, 2016)
 
 ---
 
-## 🌍 Vision à long terme
-- Devenir un **Data Scientist capable d’expliquer et de justifier ses modèles**
-- Créer des projets utiles, contextualisés et responsables
-- Relier science des données, éthique, société et éducation
-- Participer à des communautés techniques en Afrique et à l’international
+## 🧠 Key Concepts I Am Developing
+- Representing data in vector form
+- Understanding relationships between variables
 
 ---
 
-## 🔗 Où me suivre / collaborer
-- 💻 GitHub : https://github.com/michelenzoetoundi  
-- 📊 Kaggle : https://www.kaggle.com/michaelenzoetoundi
-- 💼 LinkedIn : https://linkedin.com/in/michel-enzo-etoundi-121b64191  
+## 🛠️ Current Projects (Foundational Level)
+- Learning mini-projects (GNU Octave)
+- Well-documented notebooks explaining the reasoning step by step
+
+> These projects are intentionally simple, but conceptually solid.
 
 ---
 
-📌 *Ce profil évolue avec mon apprentissage.  
-Chaque mise à jour reflète une étape réelle de mon parcours.*
+## 🗂️ Upcoming Projects
+- 
+
+---
+
+## 🌍 Long-Term Vision
+- Become a **Data Scientist able to explain and justify models**
+- Build useful, contextualized, and responsible projects
+- Connect data science with ethics, society, and education
+- Engage with technical communities in Africa and worldwide
+
+---
+
+## 🔗 Connect / Collaborate
+- 💻 GitHub: https://github.com/michelenzoetoundi  
+- 📊 Kaggle: https://www.kaggle.com/michaelenzoetoundi  
+- 💼 LinkedIn: https://linkedin.com/in/michel-enzo-etoundi-121b64191  
+
+---
+
+📌 *This profile evolves alongside my learning journey.  
+Each update reflects a real step in my progression.*
