@@ -2,11 +2,11 @@
 
 🔹 **Current Iteration:** Linear Algebra  
 🔹 **Status:** Active, concept-driven learning  
-🔹 **Check :** => 📁01 - Maths Foundations => 📁Algèbre Linéaire
+🔹 **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire to view my notes & projects
 
 ---
 
-## 🧠 Learning Philosophy
+## 🧠 Philosophy
 - Prioritize **conceptual clarity over speed**
 - Understand **why methods work**, not only how to apply them
 - Use tools as **instruments of reasoning**, not substitutes for thinking
@@ -46,23 +46,6 @@
 - Focus on **why a method works**, not only how
 - Connect mathematical formalism to interpretation
 - Learn independently using rigorous academic resources
-
----
-
-## 🛠️ Current Projects
-- Linear algebra problem-solving using GNU Octave
-- Well-documented notebooks explaining:
-  - the problem structure  
-  - the mathematical reasoning  
-  - the computational translation  
-
-> These projects are intentionally limited in scope,  
-> but rigorous in reasoning and explanation.
-
----
-
-## 📖 Main Resources
-- *Introduction à l’algèbre linéaire et à ses applications* — ERPI (2023)
 
 ---
 ## 🔄 Next Iteration
