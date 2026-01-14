@@ -19,7 +19,7 @@
 ### 📐 Mathematics
 
 **Linear Algebra**
-- Manipulate vectors and matrices (Matrix operations,Linear combinations, Rank and system consistency)
+- Manipulate vectors and matrices 
 - Solve systems of linear equations
 - Interpret linear systems geometrically
 - Translate mathematical problems into computational form
