@@ -12,25 +12,9 @@
 
 ---
 
-## 📘 Current Areas of Study 
-
-### 📐 Mathematics for Data Science
-- **Linear Algebra**
-  - Vectors and matrices
-  - Systems of linear equations
-  - Linear transformations and geometric interpretation
-
-### 💻 Programming & Tools
-- **GNU Octave**
-  - Numerical computation
-  - Matrix-based problem solving
-
----
-
 ## 🧠 Skills & Competencies (Current Level)
 
 > The following skills reflect what I can already apply in practice  
-> within the **current linear algebra iteration**.
 
 ### 📐 Mathematics
 
@@ -76,18 +60,16 @@
 
 ---
 
+## 📖 Main Resources
+- *Introduction à l’algèbre linéaire et à ses applications* — ERPI (2023)
+
+---
 ## 🔄 Next Iteration
 - Statistics and probability foundations
 - Descriptive statistics and exploratory data analysis
 - Statistical reasoning applied to real datasets
 
 ---
-
-## 📖 Main Resources
-- *Introduction à l’algèbre linéaire et à ses applications* — ERPI (2023)
-
----
-
 📌 *This repository evolves through focused learning iterations.  
 Each iteration targets a single core pillar before moving to the next.*
 
