@@ -111,3 +111,7 @@ I am deliberately investing time in foundational mathematics to build a **solid,
 
 📌 *This repository evolves alongside my learning journey.  
 Each update reflects a real conceptual step forward, not just completed tasks.*
+<<<<<<< HEAD
+=======
+
+>>>>>>> d283d82 (READ ME of folder Algèbre Linéaire added)
