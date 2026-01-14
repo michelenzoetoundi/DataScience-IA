@@ -34,25 +34,42 @@
 ---
 
 ## 🧱 Concepts fondamentaux
-- matrice  
-- élément d’une matrice  
-- format d’une matrice  
-- matrice carrée  
-- ordre d’une matrice carrée  
-- diagonale principale  
-- trace  
-- égalité de deux matrices  
-- matrice nulle  
-- matrice diagonale  
-- matrice scalaire  
-- matrice identité  
-- matrice triangulaire supérieure  
-- matrice triangulaire inférieure  
-- matrice symétrique  
-- matrice antisymétrique 
-- matrice échelonnée  
-- pivot d’une ligne  
-- matrice échelonnée réduite  
+
+| Notion ou Concept                         | Utilisation |
+|-------------------------------------------|------------|
+| Matrice                                   | 📊 🤖 🧠 |
+| Élément d’une matrice                      | 📊 🤖 🧠 |
+| Format d’une matrice                        | 📊 🤖 🧠 |
+| Matrice carrée                              | 📊 🤖 🧠 |
+| Ordre d’une matrice carrée                  | 📊 🤖 🧠 |
+| Diagonale principale                        | 📊 🤖 🧠 |
+| Trace                                      | 📊 🤖 |
+| Égalité de deux matrices                     | 📊 🤖 🧠 |
+| Matrice nulle                               | 📊 🤖 🧠 |
+| Matrice diagonale                           | 📊 🤖 🧠 |
+| Matrice scalaire                            | 📊 🤖 🧠 |
+| Matrice identité                            | 📊 🤖 🧠 |
+| Matrice triangulaire supérieure             | 📊 🤖 🧠 |
+| Matrice triangulaire inférieure             | 📊 🤖 🧠 |
+| Matrice symétrique                          | 📊 🤖 🧠 |
+| Matrice antisymétrique                      | 📊 🤖 |
+| Matrice échelonnée                           | 📊 🤖 🧠 |
+| Pivot d’une ligne                            | 📊 🤖 🧠 |
+| Matrice échelonnée réduite                   | 📊 🤖 🧠 |
+
+---
+
+### 📝 Remarques sur l’importance
+- Ces notions sont **fondamentales** : elles constituent le langage de base de toutes les manipulations de matrices en Data Science et Apprentissage Automatique.  
+- Les matrices particulières comme **diagonale, identité, symétrique** sont très importantes pour **l’optimisation, la factorisation et la réduction de dimension**.  
+- Les notions d’**échelonnement et de pivot** sont essentielles pour **résoudre les systèmes d’équations linéaires**, qui sont à la base de la régression linéaire et de nombreuses méthodes ML.  
+
+---
+
+## 📝 Légende des emojis
+- 📊 = Sciences des données  
+- 🤖 = Apprentissage automatique  
+- 🧠 = Apprentissage profond
 
 ---
 ## 🚀 Progression du chapitre

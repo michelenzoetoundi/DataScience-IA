@@ -3,7 +3,6 @@
 > 🧭 Objectif : Manipuler et raisonner sur les matrices avec addition, multiplication, transposition et opérations avancées.  
 
 ---
-
 ## 🎯 Objectifs d’apprentissage
 
 - [ ] Additionner deux matrices lorsque c’est possible  
@@ -21,9 +20,56 @@
 - [ ] Exprimer un système d’équations linéaires sous forme matricielle  
 - [ ] Définir et calculer l’inverse d’une matrice carrée d’ordre 2  
 - [ ] Résoudre un système d’équations linéaires avec la matrice inverse  
+---
+## 🧱 Concepts fondamentaux
+
+| Notion ou Concept                            | Utilisation |
+| -------------------------------------------- | ----------- |
+| Addition de deux matrices                    | 📊 🤖 🧠    |
+| Incompatibilité pour l'addition              | 📊 🤖 🧠    |
+| Multiplication d’une matrice par un scalaire | 📊 🤖 🧠    |
+| Matrice opposée                              | 📊 🤖 🧠    |
+| Matrice symétrique                           | 📊 🤖 🧠    |
+| Matrice antisymétrique                       | 📊 🤖       |
+| Produit de deux matrices                     | 📊 🤖 🧠    |
+| Indice de nilpotence                         | 📊 🤖       |
+| Matrice nilpotente                           | 📊 🤖       |
+| Matrice idempotente                          | 📊 🤖       |
+| Chaîne de Markov                             | 📊 🤖 🧠    |
+| Diagramme de transition                      | 📊 🤖 🧠    |
+| Matrice stochastique                         | 📊 🤖 🧠    |
+| Matrice d’état de niveau m                   | 📊 🤖 🧠    |
+| Matrice de transition                        | 📊 🤖 🧠    |
+| Matrice inverse                              | 📊 🤖 🧠    |
+| Transposée d’une matrice                     | 📊 🤖 🧠    |
 
 ---
 
+### 📝 Remarques sur l’importance
+- Les **opérations de base** (addition, multiplication par un scalaire, produit de matrices, transposition) sont fondamentales pour toutes les manipulations de données et calculs en Machine Learning.  
+- Les **matrices particulières** (symétrique, antisymétrique, idempotente, nilpotente) sont importantes pour comprendre certaines propriétés théoriques et la factorisation des matrices.  
+- Les **matrices liées aux chaînes de Markov** (stochastique, de transition, d’état) sont essentielles pour modéliser des processus probabilistes et séquentiels.  
+- La **matrice inverse** est clé pour résoudre les systèmes d’équations linéaires et pour des méthodes comme la régression linéaire.  
+
+---
+## 📝 Légende des emojis
+- 📊 = Sciences des données  
+- 🤖 = Apprentissage automatique  
+- 🧠 = Apprentissage profond
+
+---
+## 🚀 Progression du chapitre
+- 2.1 Addition de deux matrices
+- 2.2 Multiplication d'une matrice par un scalaire 
+- 2.3 Transposition d'une matrice 
+- 2.4 Propriétés de l'addition, de la multiplication par un scalaire et de la transposition 
+- 2.5 Multiplication de matrices 
+- 2.6 Propriétés de la multiplication de matrices
+- 2.7 Chaînes de Markov
+- 2.8 Produit matriciel et système d'équations linéaires
+- Résumé
+
+----
 ## 1️⃣ Forme générale d’une matrice
 
 Une matrice $A$ de format $m \times n$ est :
