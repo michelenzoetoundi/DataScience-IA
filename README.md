@@ -1,17 +1,15 @@
 ## 🧭 My Data Science Journey
 
-🔹 **Current Focus:** Linear Algebra  
+🔹 **Ongoing Phase:**
+    ┌─────────────┐
+    │ Layer 1 🟦  │ Mathematical Foundations: Linear Algebra
+    └─────────────┘
 🔹 **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire
 
----
+🔹 **Completed Phase:** None
 
-## 🧠 Methodology
-- Prioritize **conceptual clarity over speed**
-- Understand **why methods work**, not only how to apply them
-- Use tools as **instruments of reasoning**, not substitutes for thinking
 
 ---
-
 ## 🛠️ Skills & Competencies (Current Level)
 
 > The following skills reflect what I can already apply in practice  
@@ -39,11 +37,10 @@
 - Learn independently using rigorous academic resources
 
 ---
-## 🔄 Next Iteration
-- Statistics and probability foundations
-- Descriptive statistics and exploratory data analysis
-- Statistical reasoning applied to real datasets
-
+## 🔄 Next Step
+    ┌─────────────┐
+    │ Layer 2 📊  │ Statistics & Probability: Descriptive stats, Inference, ANOVA
+    └─────────────┘
 ---
 📌 *This repository evolves through focused learning iterations.  
 Each iteration targets a single core pillar before moving to the next.*
