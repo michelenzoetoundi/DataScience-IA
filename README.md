@@ -1,8 +1,8 @@
 ## 🧭 My Data Science Journey
 
-🔹 **Ongoing Phase:**
+🔹 **Ongoing Phase:**  
     ┌─────────────┐
-    │ Layer 1 🟦  │ Mathematical Foundations: Linear Algebra
+    │ Layer 6 🔝  │ Portfolio & Competitions
     └─────────────┘
 🔹 **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire
 
