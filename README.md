@@ -10,21 +10,17 @@
 3. **Build** from foundations to applications
 
 ## 📁 Repository Structure
-
-Formation-DataScience-IA/
-├── 01 - Maths Foundations/ ← CURRENT
-│ └── 01-Algèbre Linéaire/ ← ACTIVE
-├── 02 - Statistics & Inference/ ← NEXT
-├── 03 - Advanced Stats (R)/
-├── 04 - Data Engineering (SQL)/
-├── 05 - Python & ML/
-└── 06 - Deep Learning/
-text
-
+**Formation-DataScience-IA/**
+- **01 - Maths Foundations** ← CURRENT
+  - **01-Algèbre Linéaire** ← ACTIVE
+- **02 - Statistics & Inference** ← NEXT
+- **03 - Advanced Stats (R)**
+- **04 - Data Engineering (SQL)**
+- **05 - Python & ML**
+- **06 - Deep Learning**
 
 ## 📬 Contact
 **Email:** mikeenzoetoundi@yahoo.com  
 **GitHub:** github.com/michelenzoetoundi
 
 *Learning systematically. Building thoroughly.*
-
