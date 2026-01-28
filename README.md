@@ -1,34 +1,22 @@
-# 📓 Notes & Projects
+## 🗂️ CURRENT STRUCTURE
 
-## 📁 Where to Put Things
-
-### Phase 1: Data Analyst
+### 📌 PHASE 1 (Active)
 
 01-Phase 1/  
-├── 01-Maths/ # Algebra, Calculus notes  
-├── 02-Stats/ # Statistics notes & Excel files  
-├── 03-SQL/ # SQL queries & databases  
-├── 04-Python/ # Python code & exercises  
-└── 05-R/ # R code & analyses
+├── 01_Mathematical Foundations/ # Algebra, Statistics  
+└── 02_Data Science Tools/ # SQL, Python, R
 
 
-### Phase 2: Data Scientist  
+### 📌 PHASE 2 (Future)  
 
 02-Phase 2/  
-├── 01-ML/ # Machine Learning projects  
-├── 02-DL/ # Deep Learning projects  
-└── 03-MLOps/ # Deployment & pipelines
+├── 01_Advanced Mathematics/ # Calculus, Advanced Algebra  
+├── 02_Machine Learning/ # ML projects  
+└── 03_Deep Learning/ # DL projects
 
-
-## 📝 Naming Files
-- Notes: `Topic-Description.md`  
-- Code: `Topic-Script.py` (or .R, .sql, .ipynb)
-- Data: `dataset-name.csv`
-- Projects: `Project-Name/` folder with README inside
-
-## ✅ Quality Rules
-- Notes: In your own words, not copy-paste
-- Code: Clean with comments
-- Projects: README explains what & why
 
 ---
+## 🎯 RIGHT NOW - Sprint 1
+
+04-Notes & Projects/01-Phase 1/01_Mathematical Foundations/02_Statistics/
+
