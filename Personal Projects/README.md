@@ -1,7 +1,6 @@
-- **DataScience_&_AI/**
-  - **Personal Projects/**
-    - 01_Mathematical Computations/
-    - 02_Data Analytics/
-    - 03_Data Science in Python/
-    - 04_Data Science in R/
-    - 05_SQL Projects/
+├── 🚀 Personal Projects/
+│   ├── 01_🧮 Mathematical Computations/
+│   ├── 02_📊 Data Analytics/
+│   ├── 03_🐍 Data Science in Python/
+│   ├── 04_📈 Data Science in R/
+│   └── 05_🗃️ SQL Projects/

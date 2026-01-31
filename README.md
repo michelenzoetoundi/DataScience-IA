@@ -1,15 +1,15 @@
-- **DataScience_&_AI/**
-  - **Lecture Notes/**
-    - 01_BASIC FOUNDATIONS/
-    - 02_FOUNDATIONS CONSOLIDATION/
-    - 03_ADVANCED MATHEMATICAL FOUNDATIONS I/
-    - 04_MACHINE LEARNING/
-    - 05_ADVANCED MATHEMATICAL FOUNDATIONS II/
-    - 06_DEEP LEARNING/
-  - **Personal Projects/**
-    - 01_Mathematical Computations/
-    - 02_Data Analytics/
-    - 03_Data Science in Python/
-    - 04_Data Science in R/
-    - 05_SQL Projects/
-  - README.md
+DataScience_&_AI/
+├── 📓 Lecture Notes/
+│   ├── 01_🖥️ BASIC FOUNDATIONS/
+│   ├── 02_🔧 FOUNDATIONS CONSOLIDATION/
+│   ├── 03_📐 ADVANCED MATHEMATICAL FOUNDATIONS I/
+│   ├── 04_⚡ MACHINE LEARNING/
+│   ├── 05_∫ ADVANCED MATHEMATICAL FOUNDATIONS II/
+│   └── 06_🧠 DEEP LEARNING/
+├── 🚀 Personal Projects/
+│   ├── 01_🧮 Mathematical Computations/
+│   ├── 02_📊 Data Analytics/
+│   ├── 03_🐍 Data Science in Python/
+│   ├── 04_📈 Data Science in R/
+│   └── 05_🗃️ SQL Projects/
+└── 📄 README.md
