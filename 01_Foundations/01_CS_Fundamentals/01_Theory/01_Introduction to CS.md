@@ -1,6 +1,6 @@
 ---
 📖 book: Introduction to Computer Science (OpenStax)
-📑 chapter: CH_01- Introduction to Computer Science
+📑 chapter: CH_01 - Introduction to Computer Science
 ---
 # Introduction to Computer Science
 
@@ -70,7 +70,7 @@
 > [!TIP] Synthesis
 > - The first computing devices appeared early in many human civilizations, they were physical devices such as the **abacus**. They were used **to count, add numbers**.  Around that time, the concept of **algorithm** was invented. 
 > - In 1614, John Napier, developed **logarithms** : **a shortcut for making tedious calculations**. This became the foundation for multiple **analog calculating machines** invented during the 1600s. 
-> - In the 1820s, Charles Babbage invented the **Difference Engine to prevent human errors in manual calculations** through **automation**. Babbage followed with his invention of the **Analytical Engine**. It was **program-controlled** and included features like an **integrated memory** and an **arithmetic logic unit**. Ada Lovelace used **punched cards** to create **sequencing instructions** that could be read by the Analytical Engine to automatically perform any calculation included in the programming code. With her work on the Analytical Engine, **Lovelace became the world’s first computer programmer**.*
+> - In the 1820s, Charles Babbage invented the **Difference Engine to prevent human errors in manual calculations** through **automation**. Babbage followed with his invention of the **Analytical Engine**. It was **program-controlled** and included features like an **integrated memory** and an **arithmetic logic unit**. Ada Lovelace used **punched cards** to create **sequencing instructions** that could be read by the Analytical Engine to automatically perform any calculation included in the programming code. With her work on the Analytical Engine, **Lovelace became the world’s first computer programmer**.
 > -  By the end of the 1800s and leading into the early 1900s, calculators, adding machines, typewriters, and related machines became more commonplace, setting the stage for the invention of the computer.
 > - In the 1940s, multiple computers became available, including **IBM’s Harvard Mark 1**. These were the forerunners to the advent of the **digital computer** in the 1950s. Computers went from mechanical devices to electronic devices using at first light bulbs, then evolved to transistors, silicons, lithium materials. 
 > - Computer science emerged as an academic discipline rooted in the principles of mathematics, primarily in elite institutions, and funded by demand from the military. 
@@ -84,6 +84,13 @@
  >- **Design Limitations:** Technologies often reproduce social inequities because they are frequently designed by "dominant designers" who lack direct experience with the resource constraints or needs of the underserved populations they aim to serve.
  >- **The "Design Justice" Shift:** True progress requires a transition from "building for" to "building with" marginalized communities, centering the ingenuity of the local user to ensure technology acts as a tool for liberation rather than a reinforcement of the status quo.
 
+### 📑 How computer science interacts with other disciplines 
+ >[!TIP] Synthesis
+ > - By contributing tools and resources to handle tasks and improve operations, computer science enables many other fields and areas of research or development.
+ > - Data science is an interdisciplinary field that applies computing to managing data and extracting information from data. Many millions of people engage in data science work by using spreadsheets. Still, data science also often emphasizes larger-scale problems involving big data that are hard to manage using spreadsheets alone.
+ > - Computational science refers to applying computing concepts and technologies to advance scientific research and practical applications of science knowledge. Computer science’s emphasis on creating things can help other sciences by, for example, contributing new models or simulations that can enable the discovery of new kinds of scientific knowledge previously inaccessible to scientists.
+ > - Information science is an interdisciplinary field studying information technologies and systems as they relate to people, organizations, and societies. As computing is now so central to information management and information exchange, information science has significant overlap with computer science. Still, it tends to emphasize the social value of information, whereas computer science has (historically) emphasized algorithms and computation over people or information.
+ > - Today, computer science is an interdisciplinary field that contributes to all other fields. Effective computational solutions to research or business problems require combining domain-specific knowledge with computer science concepts from a combination of areas.
 
 
 
