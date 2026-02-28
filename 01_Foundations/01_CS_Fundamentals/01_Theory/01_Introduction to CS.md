@@ -41,7 +41,7 @@
 > - **Usage**: *It focuses on studying and applying algorithms to create applications and solutions that impact all areas of society.*
 
 > [!INFO] **Algorithm**
-> - **Definition**: *An algorithm is a **sequence of precise instructions** that enables computing. This includes components computers use to process information. Algorithms use inputs and a finite number of steps to carry out arithmetic operations like addition, subtraction, multiplication, and division, and produce outputs used in computing.*
+> - **Definition**: *An algorithm is a **sequence of precise instructions** that enables computing. This includes components computers use to process information. Algorithms use inputs and a finite number of steps to carry out arithmetic operations like addition, subtraction, multiplication, and division, and produce outputs used in computing. An algorithm is a sequence of steps/instructions that must be followed in a specific order to solve a problem.*
 > - **Usage**: *We use algorithms **to find solutions to problems**.*
 
 > [!INFO] **Computer, Hardware, Software**
